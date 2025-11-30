@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: taskmanager-backend
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
