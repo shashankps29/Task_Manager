@@ -164,9 +164,8 @@ java -jar target/*.jar
 
 ## 🙋 About the Author
 
-**Shashank Pratap Singh (Shanky)**  
+**Shashank Pratap Singh 
 A passionate developer working on Java, Spring Boot, and React.  
-Loves UI design, animations, and creating full-stack projects.
 
 ---
 
