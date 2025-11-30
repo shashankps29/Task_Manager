@@ -3,4 +3,5 @@ services:
     name: taskmanager-backend
     env: docker
     plan: free
-    dockerfilePath: ./Dockerfile
+    rootDir: taskmanagerbackend
+    dockerfilePath: Dockerfile
